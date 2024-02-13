@@ -14,8 +14,10 @@ import com.example.mynav_14_3.databinding.FragmentMainBinding
 class MainFragment : Fragment() {
     private val viewModel by viewModels<LoginViewModel>()
     private lateinit var  binding: FragmentMainBinding
-    // nb nb nb
-    // nb nb nb
+    // nb nb nb nananna
+    // aaaa
+    // nan nana
+    ///202020
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
