@@ -16,6 +16,7 @@ class MainFragment : Fragment() {
     private lateinit var  binding: FragmentMainBinding
     // nb nb nb nananna
     // aaaa
+    // nan nana
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
