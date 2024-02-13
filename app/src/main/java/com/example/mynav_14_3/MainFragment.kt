@@ -14,6 +14,7 @@ import com.example.mynav_14_3.databinding.FragmentMainBinding
 class MainFragment : Fragment() {
     private val viewModel by viewModels<LoginViewModel>()
     private lateinit var  binding: FragmentMainBinding
+
     // nb nb nb nananna
     // aaaa
     // nan nana
