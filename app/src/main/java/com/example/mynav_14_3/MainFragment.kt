@@ -15,9 +15,7 @@ class MainFragment : Fragment() {
     private val viewModel by viewModels<LoginViewModel>()
     private lateinit var  binding: FragmentMainBinding
     // nb nb nb
-    // nb nb nb
-    //new 19
-
+// bew 18
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
