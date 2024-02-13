@@ -14,6 +14,7 @@ import com.example.mynav_14_3.databinding.FragmentMainBinding
 class MainFragment : Fragment() {
     private val viewModel by viewModels<LoginViewModel>()
     private lateinit var  binding: FragmentMainBinding
+    //
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
