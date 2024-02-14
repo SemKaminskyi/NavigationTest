@@ -15,11 +15,13 @@ class MainFragment : Fragment() {
     private val viewModel by viewModels<LoginViewModel>()
     private lateinit var  binding: FragmentMainBinding
 
-    // nb nb nb nananna
-    // aaaa
-    // nan nana
-    ///202020
 
+
+
+
+
+
+    //new
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
